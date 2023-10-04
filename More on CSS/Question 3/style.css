@@ -1,0 +1,32 @@
+.container *{
+    display: inline;
+    font-size: 25px;
+}
+.container .nav1{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 50%;
+}
+.container .nav2{
+    background-color: aqua;
+    padding: 20px;
+    border-style: dotted;
+    border-radius: 20%;
+}
+.container .nav3{
+    background-color: rgb(179, 103, 5);
+    padding: 20px;
+    border-style:inset ;
+}
+.container .nav4{
+    background-color: brown;
+    padding: 20px;
+    border-radius: 50%;
+    border-style: double;
+}
+.container .nav5{
+    background-color: darkgreen;
+    padding: 20px;
+    border-style:groove;
+    border-radius: 80%;
+}
